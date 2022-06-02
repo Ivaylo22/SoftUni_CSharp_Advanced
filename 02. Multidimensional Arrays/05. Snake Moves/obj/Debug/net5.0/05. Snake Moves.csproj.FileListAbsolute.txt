@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.exe
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.deps.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\bin\Debug\net5.0\ref\05. Snake Moves.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\obj\Debug\net5.0\ref\05. Snake Moves.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.genruntimeconfig.cache

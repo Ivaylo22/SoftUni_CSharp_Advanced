@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\bin\Debug\net5.0\01. Diagonal Difference.exe
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\bin\Debug\net5.0\01. Diagonal Difference.deps.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\bin\Debug\net5.0\01. Diagonal Difference.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\bin\Debug\net5.0\01. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\bin\Debug\net5.0\01. Diagonal Difference.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\bin\Debug\net5.0\ref\01. Diagonal Difference.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\bin\Debug\net5.0\01. Diagonal Difference.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net5.0\ref\01. Diagonal Difference.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.genruntimeconfig.cache

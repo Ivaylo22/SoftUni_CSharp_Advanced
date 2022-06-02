@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net5.0\04. Matrix Shuffling.exe
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net5.0\04. Matrix Shuffling.deps.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net5.0\04. Matrix Shuffling.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net5.0\04. Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net5.0\04. Matrix Shuffling.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net5.0\ref\04. Matrix Shuffling.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net5.0\04. Matrix Shuffling.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net5.0\ref\04. Matrix Shuffling.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\02. Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.genruntimeconfig.cache

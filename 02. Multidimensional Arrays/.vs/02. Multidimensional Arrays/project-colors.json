@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6981adc1-f994-43fb-9058-48d4e7012a05": {
+      "ProjectGuid": "6981adc1-f994-43fb-9058-48d4e7012a05",
+      "DisplayName": "01. Diagonal Difference",
+      "ColorIndex": 0
+    },
+    "5a6fa2a9-3f25-4e44-b01c-124452db601a": {
+      "ProjectGuid": "5a6fa2a9-3f25-4e44-b01c-124452db601a",
+      "DisplayName": "02. Squares in Matrix",
+      "ColorIndex": 1
+    },
+    "9fdcfa8f-6acd-40f3-8aea-63afecc631c5": {
+      "ProjectGuid": "9fdcfa8f-6acd-40f3-8aea-63afecc631c5",
+      "DisplayName": "03. Maximal Sum",
+      "ColorIndex": 2
+    },
+    "5ccc2045-a38a-4d5c-956c-a6b906fefb4a": {
+      "ProjectGuid": "5ccc2045-a38a-4d5c-956c-a6b906fefb4a",
+      "DisplayName": "04. Matrix Shuffling",
+      "ColorIndex": 3
+    },
+    "11b2a1ad-7095-4559-8d43-b9f01cba4078": {
+      "ProjectGuid": "11b2a1ad-7095-4559-8d43-b9f01cba4078",
+      "DisplayName": "05. Snake Moves",
+      "ColorIndex": 4
+    },
+    "c8261da4-5472-4cad-8d1d-37345219e1d2": {
+      "ProjectGuid": "c8261da4-5472-4cad-8d1d-37345219e1d2",
+      "DisplayName": "06. Jagged Array Manipulator",
+      "ColorIndex": 5
+    },
+    "c130b08d-e52a-4d30-b1d4-9fc46ed20dd8": {
+      "ProjectGuid": "c130b08d-e52a-4d30-b1d4-9fc46ed20dd8",
+      "DisplayName": "07. Knight Game",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
