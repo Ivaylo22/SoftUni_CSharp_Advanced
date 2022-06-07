@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.exe
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.deps.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\bin\Debug\net5.0\ref\06. Wardrobe.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\obj\Debug\net5.0\ref\06. Wardrobe.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\03. Sets and Dictionaries\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.genruntimeconfig.cache
