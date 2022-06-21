@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20909d37-3cd2-436b-b460-5930d6beb660": {
+      "ProjectGuid": "20909d37-3cd2-436b-b460-5930d6beb660",
+      "DisplayName": "EvenLines",
+      "ColorIndex": 0
+    },
+    "0f036f3f-a880-411f-b7b8-7f813190fa12": {
+      "ProjectGuid": "0f036f3f-a880-411f-b7b8-7f813190fa12",
+      "DisplayName": "LineNumbers",
+      "ColorIndex": 1
+    },
+    "91b10730-322f-46a1-b725-4ce5132108a8": {
+      "ProjectGuid": "91b10730-322f-46a1-b725-4ce5132108a8",
+      "DisplayName": "CopyBinaryFile",
+      "ColorIndex": 2
+    },
+    "5da1c85b-abdb-47ed-84f5-7b5ea8cd0c1c": {
+      "ProjectGuid": "5da1c85b-abdb-47ed-84f5-7b5ea8cd0c1c",
+      "DisplayName": "ZipAndExtract",
+      "ColorIndex": 3
+    },
+    "3b97b2e4-9f20-407c-968f-8261e5e9d42e": {
+      "ProjectGuid": "3b97b2e4-9f20-407c-968f-8261e5e9d42e",
+      "DisplayName": "CopyDirectory",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b/t8uxy1+1ykRoWEtK6UyXzTZ3Wpc3EO3+P8NH9D0Whk5/F6X64DpPSYz35naU1QmNeGbIL8SdkB5boemco/xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Desktop\\SoftUni\\SoftUni - Advanced\\SoftUni---Advanced\\04. Files\\06. ZipAndExtract\\ZipAndExtract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

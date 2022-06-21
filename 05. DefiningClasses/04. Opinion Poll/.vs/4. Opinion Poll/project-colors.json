@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a9ff72c-324a-4539-8dbd-48f96f4fdc7f": {
+      "ProjectGuid": "0a9ff72c-324a-4539-8dbd-48f96f4fdc7f",
+      "DisplayName": "DefiningClasses",
+      "ColorIndex": 0
+    },
+    "9712468a-8e23-48f1-98da-73a7ffa3e13a": {
+      "ProjectGuid": "9712468a-8e23-48f1-98da-73a7ffa3e13a",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
