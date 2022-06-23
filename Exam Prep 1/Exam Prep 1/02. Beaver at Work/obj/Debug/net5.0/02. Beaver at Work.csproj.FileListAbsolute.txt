@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\bin\Debug\net5.0\02. Beaver at Work.exe
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\bin\Debug\net5.0\02. Beaver at Work.deps.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\bin\Debug\net5.0\02. Beaver at Work.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\bin\Debug\net5.0\02. Beaver at Work.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\bin\Debug\net5.0\02. Beaver at Work.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\bin\Debug\net5.0\ref\02. Beaver at Work.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\bin\Debug\net5.0\02. Beaver at Work.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\obj\Debug\net5.0\02. Beaver at Work.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\obj\Debug\net5.0\02. Beaver at Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\obj\Debug\net5.0\02. Beaver at Work.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\obj\Debug\net5.0\02. Beaver at Work.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\obj\Debug\net5.0\02. Beaver at Work.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\obj\Debug\net5.0\02. Beaver at Work.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\obj\Debug\net5.0\ref\02. Beaver at Work.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\obj\Debug\net5.0\02. Beaver at Work.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\Exam Prep 1\Exam Prep 1\02. Beaver at Work\obj\Debug\net5.0\02. Beaver at Work.genruntimeconfig.cache
