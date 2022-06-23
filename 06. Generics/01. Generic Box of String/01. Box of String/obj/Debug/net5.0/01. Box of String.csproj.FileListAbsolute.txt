@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\bin\Debug\net5.0\01. Box of String.exe
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\bin\Debug\net5.0\01. Box of String.deps.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\bin\Debug\net5.0\01. Box of String.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\bin\Debug\net5.0\01. Box of String.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\bin\Debug\net5.0\01. Box of String.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\bin\Debug\net5.0\ref\01. Box of String.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\bin\Debug\net5.0\01. Box of String.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\obj\Debug\net5.0\01. Box of String.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\obj\Debug\net5.0\01. Box of String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\obj\Debug\net5.0\01. Box of String.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\obj\Debug\net5.0\01. Box of String.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\obj\Debug\net5.0\01. Box of String.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\obj\Debug\net5.0\01. Box of String.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\obj\Debug\net5.0\ref\01. Box of String.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\obj\Debug\net5.0\01. Box of String.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\06. Generics\01. Generic Box of String\Generics\01. Box of String\obj\Debug\net5.0\01. Box of String.genruntimeconfig.cache
