@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\bin\Debug\net5.0\01. Tiles Master.exe
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\bin\Debug\net5.0\01. Tiles Master.deps.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\bin\Debug\net5.0\01. Tiles Master.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\bin\Debug\net5.0\01. Tiles Master.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\bin\Debug\net5.0\01. Tiles Master.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\bin\Debug\net5.0\01. Tiles Master.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\obj\Debug\net5.0\refint\01. Tiles Master.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\01. Tiles Master\obj\Debug\net5.0\ref\01. Tiles Master.dll

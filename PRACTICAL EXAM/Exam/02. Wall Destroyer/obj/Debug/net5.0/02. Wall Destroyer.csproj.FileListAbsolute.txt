@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.exe
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.deps.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\obj\Debug\net5.0\refint\02. Wall Destroyer.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\SoftUni---Advanced\PRACTICAL EXAM\Exam\02. Wall Destroyer\obj\Debug\net5.0\ref\02. Wall Destroyer.dll
